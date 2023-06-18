@@ -1,0 +1,15 @@
+Object. CLI SSH Manager
+Ideas:
+Store connections
+Store keys (private and public)
+Store credentials
+Store connections in tree-like structure
+Command-line completition (?)
+Encrypt database
+Works with system wide ssh-manager and keygen-software(putty?)
+PL - Golang?
+Initial store is pretty simple. Advanced edit on specified command.
+Works over command line/shell?
+Tabbed interface (screen-like)
+Search connection by name, IP, desc, etc
+
